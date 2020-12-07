@@ -17,4 +17,4 @@ Caso você precise entrar em contato com as pessoas responsáveis por este grupo
 
 # Créditos
 
-Esse modelo de repositório veio do projeto [Training Center](https://github.com/training-cente).
+Esse modelo de repositório veio do projeto [Training Center](https://github.com/training-center).
